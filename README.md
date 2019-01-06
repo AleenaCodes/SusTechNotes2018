@@ -1,7 +1,5 @@
 # Sustainability, Technology and Business 2018
 
-## Intro
-
 These notes are a combination of slides and the lectures so (hopefully) include everything on the course*
 
 *But I am not responsible if you fail 😛
