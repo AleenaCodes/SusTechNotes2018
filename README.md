@@ -1,4 +1,4 @@
-# Internet Economics and Financial Technology 2018
+# Sustainability, Technology and Business 2018
 
 ## Intro
 
