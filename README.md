@@ -4,6 +4,8 @@ These notes are a combination of slides and the lectures so (hopefully) include 
 
 *But I am not responsible if you fail 😛
 
+Part 1 of the exam will be LCA (lectures 13-16). Part 2 will cover everything else (excluding lectures 7-9)
+
 I don't really proof-read these, so please submit a pull request if you spot anything wrong! (either grammar or content) ✏️
 
 ⚠️ Not everything is complete yet - table indicates the status of things
