@@ -26,8 +26,8 @@ I don't really proof-read these, so please submit a pull request if you spot any
 |12|9/11/18|Social Sustainability and Supply Chain Management in the Industry|[Lec12](Notes/Lecture12.md)|✔️|
 |13|14/11/18|Life Cycle Assessment I|[Lec13](Notes/Lecture13.md)|✔️|
 |14|16/11/18|Life Cycle Assessment II|[Lec14](Notes/Lecture14.md)|✔️|
-|15|28/11/18|x|[Lec15](Notes/Lecture15.md)|❌|
-|16|30/11/18|x|[Lec16](Notes/Lecture16.md)|❌|
-|17|5/12/18|x|[Lec17](Notes/Lecture17.md)|❌|
+|15|28/11/18|Life Cycle Assessment III|[Lec15](Notes/Lecture15.md)|✔️|
+|16|30/11/18|Input-Output LCA|[Lec16](Notes/Lecture16.md)|✔️|
+|17|5/12/18|Energy and Electronic Products|[Lec17](Notes/Lecture17.md)|✔️|
 |18|7/12/18|x|[Lec18](Notes/Lecture18.md)|❌|
 |19|12/12/18|x|[Lec19](Notes/Lecture19.md)|❌|
