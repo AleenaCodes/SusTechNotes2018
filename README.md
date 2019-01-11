@@ -8,8 +8,6 @@ Part 1 of the exam will be LCA (lectures 13-16). Part 2 will cover everything el
 
 I don't really proof-read these, so please submit a pull request if you spot anything wrong! (either grammar or content) ✏️
 
-⚠️ Not everything is complete yet - table indicates the status of things
-
 |Lecture|Date|Topic|Notes|Status|
 |:--|:--|:--|:--|:--|
 |1|3/10/18|What is Sustainability?|[Lec1](Notes/Lecture1.md)|✔️|
@@ -29,5 +27,4 @@ I don't really proof-read these, so please submit a pull request if you spot any
 |15|28/11/18|Life Cycle Assessment III|[Lec15](Notes/Lecture15.md)|✔️|
 |16|30/11/18|Input-Output LCA|[Lec16](Notes/Lecture16.md)|✔️|
 |17|5/12/18|Energy and Electronic Products|[Lec17](Notes/Lecture17.md)|✔️|
-|18|7/12/18|x|[Lec18](Notes/Lecture18.md)|❌|
-|19|12/12/18|x|[Lec19](Notes/Lecture19.md)|❌|
+|18|7/12/18|EWaste, Recycling and Hazardous Substances|[Lec18](Notes/Lecture18.md)|✔️|
