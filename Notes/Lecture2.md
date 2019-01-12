@@ -17,12 +17,12 @@ A model of how people engage with the environment
 |Imaginative|Sustainability|Green Radicalism|
 
 Two aspects -
-	- Attitude to the current political system
-		- Reformist - system needs a reform
-		- Radical - system needs to be replaced
-	- Attitude to environmental problems
-		- Prosaic - unmitigatingly bad and just need to get on with it
-		- Imaginative - opportunity to create change that has even more impact than the environment
+- Attitude to the current political system
+	- Reformist - system needs a reform
+	- Radical - system needs to be replaced
+- Attitude to environmental problems
+	- Prosaic - unmitigatingly bad and just need to get on with it
+	- Imaginative - opportunity to create change that has even more impact than the environment
 
 ### Denial - Promethean response
 
